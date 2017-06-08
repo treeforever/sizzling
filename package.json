@@ -17,6 +17,7 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
+    "google-map-react": "^0.24.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   }
